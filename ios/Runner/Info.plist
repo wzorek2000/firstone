@@ -53,5 +53,8 @@
     <string>Ta aplikacja wymaga dostępu do Twoich zdjęć, aby móc zapisywać nowe obrazy.</string>
     <key>NSCameraUsageDescription</key>
     <string>Ta aplikacja wymaga dostępu do aparatu, aby móc robić zdjęcia.</string>
+    <key>NSContactsUsageDescription</key>
+    <string>Ta aplikacja wymaga dostępu do Twoich kontaktów, aby móc wykonywać połączenia telefoniczne.</string>
+
 </dict>
 </plist>

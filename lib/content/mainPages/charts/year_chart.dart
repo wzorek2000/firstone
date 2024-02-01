@@ -36,6 +36,7 @@ class YearChart extends StatelessWidget {
         var chartSeries = _createChartSeries(moodDataByMonth);
 
         return AspectRatio(
+          key: const ValueKey('chart'),
           aspectRatio: 1.7,
           child: charts.BarChart(
             chartSeries,

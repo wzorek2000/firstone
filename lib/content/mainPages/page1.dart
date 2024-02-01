@@ -42,12 +42,14 @@ class _ContentScreenState extends State<ContentScreen> {
     const double bottomNavBarHeight = kBottomNavigationBarHeight;
 
     return Scaffold(
+      key: ValueKey('contentScreen'),
       appBar: AppBar(
         automaticallyImplyLeading: false,
         actions: <Widget>[
           Padding(
             padding: const EdgeInsets.only(left: 16.0),
             child: ElevatedButton(
+              key: ValueKey('emergencyButton'),
               onPressed: () => navigateToEmergency(context),
               style: ButtonStyle(
                 backgroundColor: MaterialStateProperty.all<Color>(Colors.red),
@@ -66,6 +68,7 @@ class _ContentScreenState extends State<ContentScreen> {
           ),
           const Expanded(child: SizedBox()),
           IconButton(
+            key: ValueKey('settings'),
             icon: const Icon(Icons.settings),
             iconSize: 40,
             onPressed: () => navigateToSettings(context),

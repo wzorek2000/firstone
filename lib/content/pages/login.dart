@@ -71,12 +71,14 @@ class _LoginScreenState extends State<LoginScreen> {
                     mainAxisSize: MainAxisSize.min,
                     children: <Widget>[
                       TextFormField(
+                        key: ValueKey('emailField'),
                         decoration: const InputDecoration(labelText: 'Email'),
                         validator: (input) =>
                             input!.contains('@') ? null : 'Błędny mail',
                         onSaved: (input) => _email = input!,
                       ),
                       TextFormField(
+                        key: ValueKey('passwordField'),
                         decoration:
                             const InputDecoration(labelText: 'Password'),
                         obscureText: true,
@@ -86,6 +88,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       ),
                       const SizedBox(height: 20),
                       ElevatedButton(
+                        key: ValueKey('loginButton'),
                         onPressed: _submit,
                         child: const Text('Zaloguj się'),
                       ),
