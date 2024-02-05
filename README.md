@@ -51,10 +51,15 @@ flutter pub get
 flutter run
 ```
 
-W zależności od wykorzystywanego urządzenia może być konieczne dodatkowe zastosowanie komend:
+W zależności od wykorzystywanego urządzenia może być konieczne dodatkowe zastosowanie komendy:
 ```bash
 flutter clean
-flutter create .
+```
+
+i ponowne wykonanie komend:
+```bash
+flutter pub get
+flutter run
 ```
 
 ## Katalogi projektu
