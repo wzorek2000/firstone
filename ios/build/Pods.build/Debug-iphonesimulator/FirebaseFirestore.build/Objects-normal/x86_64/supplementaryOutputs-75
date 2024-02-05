@@ -1,0 +1,18 @@
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Timestamp+Codable.swift":
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Timestamp+Codable.swiftdeps"
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Timestamp+Codable.swiftconstvalues"
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Timestamp+Codable.o"
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Timestamp+Codable.d"
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Timestamp+Codable.dia"
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampDecodingStrategy.swift":
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampDecodingStrategy.o"
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampDecodingStrategy.swiftdeps"
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampDecodingStrategy.d"
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampDecodingStrategy.swiftconstvalues"
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampDecodingStrategy.dia"
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/SwiftHeaderWorkaround.swift":
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/SwiftHeaderWorkaround.d"
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/SwiftHeaderWorkaround.dia"
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/SwiftHeaderWorkaround.swiftconstvalues"
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/SwiftHeaderWorkaround.swiftdeps"
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/SwiftHeaderWorkaround.o"

@@ -1,0 +1,18 @@
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/WriteBatch+WriteEncodable.swift":
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/WriteBatch+WriteEncodable.o"
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/WriteBatch+WriteEncodable.d"
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/WriteBatch+WriteEncodable.swiftdeps"
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/WriteBatch+WriteEncodable.dia"
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/WriteBatch+WriteEncodable.swiftconstvalues"
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Transaction+WriteEncodable.swift":
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Transaction+WriteEncodable.o"
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Transaction+WriteEncodable.dia"
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Transaction+WriteEncodable.d"
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Transaction+WriteEncodable.swiftconstvalues"
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Transaction+WriteEncodable.swiftdeps"
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampEncodingStrategy.swift":
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampEncodingStrategy.d"
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampEncodingStrategy.swiftconstvalues"
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampEncodingStrategy.o"
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampEncodingStrategy.swiftdeps"
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampEncodingStrategy.dia"

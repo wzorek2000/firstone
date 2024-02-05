@@ -1,0 +1,45 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_ToastVersionNumber",
+            "_ToastVersionString",
+            "_CSToastPositionCenter",
+            "_CSToastPositionBottom",
+            "_CSToastPositionTop"
+          ],
+          "objc_class": [
+            "PodsDummy_Toast",
+            "CSToastStyle",
+            "CSToastManager"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/Toast.framework/Toast"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "x86_64-ios-simulator"
+      },
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

@@ -8,15 +8,13 @@ void main() {
       driver = await FlutterDriver.connect();
     });
     tearDownAll(() async {
-      if (driver != null) {
-        await driver.close();
-      }
-    });
+      await driver.close();
+        });
     test('verify SixMonthsChart', () async {
       final bottomNavigationBarFinder = find.byType('BottomNavigationBar');
       final historiaTabFinder = find.text('Historia');
       await driver.tap(historiaTabFinder);
-      await Future.delayed(Duration(seconds: 1));
+      await Future.delayed(const Duration(seconds: 1));
       final inputNumberChartFinder = find.byValueKey('chart');
       await driver.waitFor(inputNumberChartFinder);
     });
@@ -27,10 +25,8 @@ void main() {
       driver = await FlutterDriver.connect();
     });
     tearDownAll(() async {
-      if (driver != null) {
-        driver.close();
-      }
-    });
+      driver.close();
+        });
     test('logout', () async {
       final settingsButtonFinder = find.byValueKey('settings');
       final logoutButtonFinder = find.text('Wyloguj się');

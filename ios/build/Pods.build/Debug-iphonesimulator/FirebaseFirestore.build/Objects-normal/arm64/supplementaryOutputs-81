@@ -1,0 +1,18 @@
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/AsyncAwait/Firestore+AsyncAwait.swift":
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.dia"
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.d"
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.swiftconstvalues"
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.swiftdeps"
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.o"
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/FirestoreQueryObservable.swift":
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.swiftconstvalues"
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.o"
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.swiftdeps"
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.d"
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.dia"
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/FirestoreQuery.swift":
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.d"
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.swiftdeps"
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.swiftconstvalues"
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.o"
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.dia"

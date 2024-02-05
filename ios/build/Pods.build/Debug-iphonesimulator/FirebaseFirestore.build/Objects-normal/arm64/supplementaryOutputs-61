@@ -1,0 +1,18 @@
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/AsyncAwait/CollectionReference+AsyncAwait.swift":
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.o"
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.dia"
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.d"
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.swiftconstvalues"
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.swiftdeps"
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CodableErrors.swift":
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.swiftconstvalues"
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.d"
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.dia"
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.o"
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.swiftdeps"
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CodablePassThroughTypes.swift":
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.dia"
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.d"
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.swiftconstvalues"
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.o"
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.swiftdeps"

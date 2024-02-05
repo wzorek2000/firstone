@@ -1,0 +1,18 @@
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageListResult.swift":
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageListResult.o"
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageListResult.swiftconstvalues"
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageListResult.dia"
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageListResult.swiftdeps"
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageListResult.d"
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageListTask.swift":
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageListTask.o"
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageListTask.d"
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageListTask.swiftdeps"
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageListTask.swiftconstvalues"
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageListTask.dia"
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetMetadataTask.swift":
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetMetadataTask.dia"
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetMetadataTask.o"
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetMetadataTask.d"
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetMetadataTask.swiftconstvalues"
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetMetadataTask.swiftdeps"

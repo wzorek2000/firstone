@@ -1,0 +1,18 @@
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageDownloadTask.swift":
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageDownloadTask.swiftdeps"
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageDownloadTask.dia"
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageDownloadTask.d"
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageDownloadTask.o"
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageDownloadTask.swiftconstvalues"
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetDownloadURLTask.swift":
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetDownloadURLTask.swiftconstvalues"
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetDownloadURLTask.o"
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetDownloadURLTask.swiftdeps"
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetDownloadURLTask.dia"
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageGetDownloadURLTask.d"
+"/Users/daniel/Documents/praca_dyplomowa/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageError.swift":
+  dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageError.d"
+  object: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageError.o"
+  const-values: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageError.swiftconstvalues"
+  diagnostics: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageError.dia"
+  swift-dependencies: "/Users/daniel/Documents/praca_dyplomowa/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageError.swiftdeps"

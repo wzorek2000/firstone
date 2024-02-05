@@ -19,8 +19,8 @@ class NotificationService {
           channelName: 'Codzienne Powiadomienia',
           channelDescription:
               'Powiadomienia wysyłane codziennie o ustalonych godzinach',
-          defaultColor: Color(0xFF9D50DD),
-          ledColor: Color.fromARGB(0, 255, 255, 255),
+          defaultColor: const Color(0xFF9D50DD),
+          ledColor: const Color.fromARGB(0, 255, 255, 255),
         ),
       ],
     );

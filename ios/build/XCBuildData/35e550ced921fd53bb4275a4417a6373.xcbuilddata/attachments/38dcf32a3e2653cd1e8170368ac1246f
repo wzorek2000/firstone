@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/Runner-master.dia",
+    "emit-module-dependencies" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/Runner-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/Runner-master-emit-module.dia",
+    "swift-dependencies" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/Runner-master.swiftdeps"
+  },
+  "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/daniel/Documents/praca_dyplomowa/ios/Runner/AppDelegate.swift" : {
+    "const-values" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/praca_dyplomowa/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  }
+}

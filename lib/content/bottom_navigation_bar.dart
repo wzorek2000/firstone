@@ -16,7 +16,7 @@ class _BottomNavigationBarScreenState extends State<BottomNavigationBarScreen> {
   @override
   Widget build(BuildContext context) {
     return BottomNavigationBar(
-      key: ValueKey('bottomNavigationBar'),
+      key: const ValueKey('bottomNavigationBar'),
       currentIndex: widget.currentIndex,
       onTap: widget.onTap,
       items: const <BottomNavigationBarItem>[

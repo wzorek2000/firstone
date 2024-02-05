@@ -13,25 +13,13 @@ import 'content/themes/theme_manager.dart';
 import 'content/notifications.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 
-void requestNotificationPermission() async {
-  FirebaseMessaging messaging = FirebaseMessaging.instance;
-
-  NotificationSettings settings = await messaging.requestPermission(
-    alert: true,
-    badge: true,
-    sound: true,
-    provisional: false,
-  );
-}
-
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
 
-  requestNotificationPermission();
-  await NotificationService().init();
+  NotificationService().init();
   final SharedPreferences prefs = await SharedPreferences.getInstance();
   final int themeIndex = prefs.getInt('selectedIndex') ?? 0;
   final themeManager = ThemeManager();

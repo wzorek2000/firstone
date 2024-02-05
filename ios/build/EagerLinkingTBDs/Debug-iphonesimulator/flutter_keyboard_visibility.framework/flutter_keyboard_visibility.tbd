@@ -1,0 +1,41 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_flutter_keyboard_visibilityVersionString",
+            "_flutter_keyboard_visibilityVersionNumber"
+          ],
+          "objc_class": [
+            "FlutterKeyboardVisibilityPlugin",
+            "PodsDummy_flutter_keyboard_visibility"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/flutter_keyboard_visibility.framework/flutter_keyboard_visibility"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "x86_64-ios-simulator"
+      },
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}
