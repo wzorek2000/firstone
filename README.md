@@ -51,6 +51,12 @@ flutter pub get
 flutter run
 ```
 
+W zależności od wykorzystywanego urządzenia może być konieczne dodatkowe zastosowanie komend:
+```bash
+flutter clean
+flutter create .
+```
+
 ## Katalogi projektu
 
 - ../android - zawiera konfiguracje środowiska Android
@@ -68,4 +74,3 @@ flutter drive --target=test_driver/app_test.dart
 ```
 
 Następnie w pliku app_test.dart można uruchamiać wszystkie utworzone testy.
-
